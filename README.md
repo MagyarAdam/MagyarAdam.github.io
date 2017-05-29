@@ -1,3 +1,4 @@
 # MagyarAdam.github.io
 My personal website
-tutor
+tutor01
+tutor02
